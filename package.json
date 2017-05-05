@@ -1,0 +1,19 @@
+{
+  "name": "poc3d",
+  "version": "1.0.0",
+  "description": "Best poc 3d ever",
+  "scripts": {
+    "start": "webpack -w"
+  },
+  "author": "Seloris",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/babylonjs": "^2.4.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.2",
+    "webpack": "^2.5.0"
+  },
+  "dependencies": {
+    "babylonjs": "^3.0.0-alpha"
+  }
+}
